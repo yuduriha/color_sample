@@ -1,0 +1,23 @@
+.main-parts {
+	padding: 1em;
+}
+.notice {
+	font-size: 1em;
+}
+#txt-area {
+	font-size: 2em;
+	line-height: 1.1em;
+}
+#input-data {
+	font-size: 1em;
+	line-height: 1.1em;
+	width: 100%;
+}
+.color-sample {
+	display: inline;
+	width: 1em;
+	height: 1em;
+	border-color: #000;
+	border-style: solid;
+	border-width: 1px;
+}
